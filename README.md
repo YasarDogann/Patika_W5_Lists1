@@ -49,9 +49,6 @@ static void Main(string[] args)
 
 }
 ```
-10 elemanlı bir dizi oluşturdum daha sonra içerisine 10 adet eleman girişi yaptırttım. Döngüden çıkınca 11. elemanı da girmesini istedim.
-Daha sonra eski diziyi yeni oluşturduğum 11 elemanlı dizi içerisine attım ve 11. elemanı da ekledim. Sort() methodu ile küçükten büyüğe sıraladım.
-Bu biraz karışık bir yol
 
 
 
