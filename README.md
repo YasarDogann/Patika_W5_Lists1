@@ -1,12 +1,12 @@
 # Patika+ Week5 Array Uygulaması
 Merhaba,
-Bu proje C# ile Patika+ 5.hafta Arrays için yapılmış bir uygulamadır.
+Bu proje C# ile Patika+ 5.hafta Lists için yapılmış bir uygulamadır.
 
 ## 📚 Proje Hakkında
 Bu proje, aşağıdaki konuları öğrenmeye yardımcı olmak için tasarlanmıştır:
 - Basit bir C# programı yazmak
 - C# konsol uygulamasının yapısını anlamak
-- Diziler ve kullanımını öğrenmek
+- List yapısını öğrenmek
 - Döngüler'i kullanmak
 
 
@@ -16,7 +16,7 @@ Bu Pratik'te sizden ziyaretçilerin isimlerini eklediğimiz bir liste oluşturma
 ![2rdiMGU-davetliler](https://github.com/user-attachments/assets/ff98583f-1ceb-4079-b84a-25ca4833b838)
 
 
-## Kod Region1 
+## Kod 
 ```csharp
 static void Main(string[] args)
 {
