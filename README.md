@@ -1,4 +1,4 @@
-# Patika+ Week5 Array Uygulaması
+# Patika+ Week5 Lists1 Uygulaması
 Merhaba,
 Bu proje C# ile Patika+ 5.hafta Lists için yapılmış bir uygulamadır.
 
